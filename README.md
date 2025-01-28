@@ -23,3 +23,6 @@ Follow these steps:
 # ⏯️ Playing ⏯️
 That's kinda it! You use the space bar to play (press the space bar to jump) or you can use the arrow keys (Up: Jump)
 Enjoy and don't forget to let me know if there are any other issues regarding this project.
+
+                                                            
+                                                     <a href="https://https://ilovemom123.github.io/chrome-dino-unblocked/dino.html">Go to the game!</a>
