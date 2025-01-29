@@ -17,7 +17,12 @@ Google Chrome's Dino game is adapted to HTML so you can play it on every device 
 That's kinda it! You use the space bar to play (press the space bar to jump) or you can use the arrow keys (Up: Jump)
 Enjoy and don't forget to let me know if there are any other issues regarding this project.
 
-(Add "dino.html to play")
+<head>
+  <meta http-equiv="refresh" content="10; URL=https://ilovemom123.github.io/chrome-dino-unblocked/" />
+</head>
+<body>
+  <p>If you are not redirected in ten seconds, <a href="https://ilovemom123.github.io/chrome-dino-unblocked/dino.html">click here</a>.</p>
+</body>
 
                                                             
                                                     
